@@ -3,7 +3,7 @@ title: "TypeScript でつくる型レベル正規表現処理系"
 emoji: "🧩"
 type: "tech"
 topics: ["TypeScript", "正規表現", "型", "型レベルプログラミング"]
-published: false
+published: true
 ---
 
 # はじめに
